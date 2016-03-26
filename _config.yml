@@ -1,0 +1,28 @@
+name: glutenfreerestaurant
+favicon: null
+layout_spectrum: 0.013386933831498027
+typography_spectrum: 0.34322506887838244
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1871316668111831
+  lightness: 0.8415305493399501
+  saturation: 0.6970455048140138
+  rhythmicContrast: 0.803986158920452
+purpose: []
